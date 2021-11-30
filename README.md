@@ -4,7 +4,8 @@ Application de gestion de présence qui permet aux apprenants de se connecter pu
 
 #Contraintes :
 
--L'apprenant ne peut pas se connecter à l'espace d'émargement tant qu'il n'est pas connecté au wifi de la salle de cours
+-L'apprenant ne peut pas se connecter à l'espace d'émargement tant qu'il n'est pas connecté au wifi de la salle de cours. 
+
 -Lorsqu'il réussi à se connecter, une carte doit s'afficher pour indiquer sa position.
 -L'apprenant ne peut émarger qu'une seule fois le matin et une seule fois le soir.
 
